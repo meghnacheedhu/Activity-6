@@ -1,13 +1,13 @@
 make,processor_speed,gpu_performance,storage_capacity
-PlayStation 5,5.5,20.28,1000
-Xbox Series X,4.8,18,900
-Nintendo Switch,3.5,15,800
-PlayStation 4 Pro,3.0,12,700
-Xbox One X,2.5,10,600
-Nintendo Switch Lite,2.0,8,500
-PlayStation 4 Slim,1.8,6,400
-Xbox One S,1.6,4,300
-PlayStation 3,1.4,2,200
-Xbox 360,1.2,1,100
-Nintendo Wii U,1.1,0.8,90
-Nintendo Wii,1.0,0.5,80
+PlayStation 5,3.5,10.28,825
+Xbox Series X,3.7,11.5,950
+Nintendo Switch,2.0,2.5,128
+PlayStation 4 Pro,2.3,7.0,900
+Xbox One X,2.6,8.5,850
+Nintendo Switch Lite,1.5,1.8,64
+PlayStation 4 Slim,1.8,4.0,600
+Xbox One S,2.0,3.0,700
+PlayStation 3,2.4,5.0,400
+Xbox 360,2.4,3.5,300
+Nintendo Wii U,1.7,2.5,100
+Nintendo Wii,1.0,0.8,256
